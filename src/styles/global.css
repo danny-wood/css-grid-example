@@ -1,0 +1,14 @@
+:root{
+    --white: #ffffff;
+    --black: #000000;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
