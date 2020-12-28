@@ -1,0 +1,6 @@
+footer {
+  background: olive;
+  display: grid;
+  grid-template-columns: var(--grid_container);
+  padding: 20px 0;
+}

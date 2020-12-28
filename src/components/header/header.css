@@ -1,0 +1,16 @@
+header {
+  background: crimson;
+  display: grid;
+  grid-template-columns: var(--grid_container);
+}
+
+header .contained {
+  display: grid;
+  grid-template-columns: auto 2fr;
+  gap: 20px;
+}
+
+header .logo {
+  background: yellowgreen;
+  padding: 20px;
+}

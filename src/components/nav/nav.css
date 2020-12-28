@@ -1,0 +1,8 @@
+nav {
+  background: darksalmon;
+  display: grid;
+  gap: 15px;
+  justify-content: end;
+  grid-auto-flow: column;
+  align-items: center;
+}

@@ -1,0 +1,13 @@
+.latest-news {
+  background: coral;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.latest-news .latest-news-item {
+  padding: 20px;
+}
+
+.latest-news > div:nth-child(2) {
+  background: orangered;
+}
